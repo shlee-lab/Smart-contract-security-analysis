@@ -30,10 +30,20 @@ Things to do : put big table (dynamic)
 Below papers are related with DSL
 - **Findel: Secure Derivative Contracts for Ethereum** (2017), Alex Biryukov et al. [[pdf]](https://orbilu.uni.lu/bitstream/10993/30975/1/Findel_2017-03-08-CR.pdf)
 - **Formal verification of smart contracts based on users and blockchain behaviors models** (2018), Tesnim Abdellatif et al. [[pdf]](https://hal.archives-ouvertes.fr/hal-01760787/document)
-- **** (), et al. [[pdf]]()
-- **** (), et al. [[pdf]]()
-- **** (), et al. [[pdf]]()
 
+Below papers are related with Isabelle/HOL or Behaviors model
+- **Formal verification of smart contracts based on users and blockchain behaviors models** (2018), Tesnim Abdellatif et al. [[pdf]](https://hal.archives-ouvertes.fr/hal-01760787/document)
+- **Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL** (2018), Sidney Amani et al. [[pdf]](http://ssrg.nicta.com/publications/csiro_full_text//Amani_BSB_18.pdf)
+
+Below papers are related with symbolic execution and theorem provers
+- **How Formal Verification Can Ensure Flawless Smart Contracts** (2018), Bernhard Mueller. [[web]](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1)
+- **Finding The Greedy, Prodigal, and Suicidal Contracts at Scale** (2018), Ivica Nikolic et al. [[pdf]](https://arxiv.org/pdf/1802.06038.pdf)
+
+Below papers are related with automata
+- **Designing Secure Ethereum Smart Contracts: A Finite State Machine Based Approach** (2017), Anastasia Mavridou et al. [[pdf]](https://fc18.ifca.ai/preproceedings/101.pdf)
+
+Below papers are related with cryptographical view
+- **Raziel: Private and Verifiable Smart Contracts on Blockchains** (2017), David Cerezo Sánchez. [[pdf]](https://eprint.iacr.org/2017/878.pdf)
 
 
 ### Papers where My Eyes on
