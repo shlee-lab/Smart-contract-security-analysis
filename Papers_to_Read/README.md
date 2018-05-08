@@ -7,7 +7,7 @@ I'm not sure that these papers are good or essential to read
 
 * [Recommendation from Others](#recommendation-from-others) : Mainly, from my tutor
 
-* [Papers where My Eyes on](#papers-where-my-eyes-on) : Proceeding
+* [chosen by myself](#chosen-by-myself) : warning! my view is very novice
 
 * [Lectures / Survey / Blogs](#lectures--survey--blogs)
 * * *
@@ -46,10 +46,9 @@ Below papers are related with cryptographical view
 - **Raziel: Private and Verifiable Smart Contracts on Blockchains** (2017), David Cerezo Sánchez. [[pdf]](https://eprint.iacr.org/2017/878.pdf)
 
 
-### Papers where My Eyes on
-*Newly published papers (< 6 months) which are worth reading*
-- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017), Andrew G. Howard et al. [[pdf]](https://arxiv.org/pdf/1704.04861.pdf)
-
+### Chosen by myself
+*I should review these papers*
+- Scilla: a Smart Contract Intermediate-Level LAnguage (2018), Ilya Sergey et al. [[pdf]](https://arxiv.org/pdf/1801.00687.pdf)
 
 
 ### Book / Survey / Review
