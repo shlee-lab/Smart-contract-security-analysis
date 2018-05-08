@@ -62,10 +62,10 @@ Things to do : put big table (dynamic)
 ### Lectures / Tutorials / Blogs
 
 *(Lectures)*
-- 
+- empty
 
 *(Tutorials)*
-- 
+- empty
 
 *(Blogs)*
 - **DASP TOP 10** [[web]](https://www.dasp.co/)
