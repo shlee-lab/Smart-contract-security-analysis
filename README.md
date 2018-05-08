@@ -40,14 +40,6 @@ For it, I study cryptography, formal descryption and blockchain for now.
 
 Things to do : put big table (dynamic)
 
-### Security Policy
-- **Looking Back at the Bell-La Padula Model** (2015), David Elliott Bell. [[pdf]](http://www.cs.unc.edu/~anderson/teach/comp790/papers/Bell.pdf)
-- **Digitalized Signatures and Public Key Functions as Intractable as Factorization** (1979), M.Rabin. [[pdf]](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-212.pdf)
-- **Probabilistic Encryption** (1984), S.Goldwasser et al. [[pdf]](http://groups.csail.mit.edu/cis/pubs/shafi/1984-jcss.pdf)
-- **The knowledge complexity of interactive proof systems**, Goldwasser et al. [[pdf]](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf)
-- **A Primer on Zero Knowledge Protocols** (2002), Gerardo I. Simari. [[pdf]](http://www.cs.ox.ac.uk/people/gerardo.simari/personal/publications/zkp-simari2002.pdf)
-
-
 ### 2018 papers
 *Newly published papers (in this year) which are worth reading*
 - **ZEUS: Analyzing Safety of Smart Contracts** (2018), Sukrit Kalra et al. [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf)
@@ -76,6 +68,7 @@ Things to do : put big table (dynamic)
 - 
 
 *(Blogs)*
+- **DASP TOP 10** [[web]](https://www.dasp.co/)
 - **Reversing Ethereum Smart Contracts** [[web]](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
 
 ### Ethereum Reference
