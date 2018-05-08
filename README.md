@@ -49,35 +49,34 @@ Things to do : put big table (dynamic)
 
 
 ### 2018 papers
-*Newly published papers (< 6 months) which are worth reading*
-- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017), Andrew G. Howard et al. [[pdf]](https://arxiv.org/pdf/1704.04861.pdf)
+*Newly published papers (in this year) which are worth reading*
+- **ZEUS: Analyzing Safety of Smart Contracts** (2018), Sukrit Kalra et al. [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf)
+- **Finding The Greedy, Prodigal, and Suicidal Contracts at Scale** (2018), Ivica Nikolic et al. [[pdf]](https://arxiv.org/pdf/1802.06038.pdf)
+- **Scilla: a Smart Contract Intermediate-Level LAnguage** (2018), Ilya Sergey et al. [[pdf]](https://arxiv.org/pdf/1801.00687.pdf)
 
 ### 2017 papers
-*Newly published papers (< 6 months) which are worth reading*
-- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017), Andrew G. Howard et al. [[pdf]](https://arxiv.org/pdf/1704.04861.pdf)
+*Published papers in 2017 which are worth reading*
+- **Ethereum Smart Contracts: Security Vulnerabilities and Security Tools** (2017), Ardit Dika. [[pdf]](https://brage.bibsys.no/xmlui/bitstream/handle/11250/2479191/18400_FULLTEXT.pdf?sequence=1)
+- **Validation and Verification of Smart Contracts: A Research Agenda** (2017),  Daniele Magazzeni et al. [[pdf]](https://core.ac.uk/download/pdf/96761687.pdf)
 
 ### 2015-6 papers
-*Newly published papers (< 6 months) which are worth reading*
-- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017), Andrew G. Howard et al. [[pdf]](https://arxiv.org/pdf/1704.04861.pdf)
+*Published papers in 2015-6 (2015 is when the notion of smart contract was born) which are worth reading*
+- Making Smart Contracts Smarter (2016), Loi Luu et al. [[pdf]](https://eprint.iacr.org/2016/633.pdf)
 
 
 ### Book / Survey / Review
-- Interactive Theorem Proving and Program Development (2004), Bertot, Yves, Castéran, Pierre. [[web]](http://www.springer.com/gp/book/9783540208549)
+- 
 
 ### Lectures / Tutorials / Blogs
 
 *(Lectures)*
-- **Stanford CS240h Spring 2014** [[web]](http://www.scs.stanford.edu/14sp-cs240h/)
-- **NICTA Functional Programming Course** [[github]](https://github.com/data61/fp-course)
-- **Tsinghua Coq Summer School** [[web]](http://www.labri.fr/perso/casteran/CoqArt/Tsinghua/index.html)
+- 
 
 *(Tutorials)*
-- **Happy Learn Haskell Tutorial** [[web]](http://www.happylearnhaskelltutorial.com/contents.html)
-- **SAW TUTORIAL BY GLOIS** [[web]](https://saw.galois.com/tutorial.html)
-- **Coq: formal proof management system** [[web]](https://coq.inria.fr/)
+- 
 
 *(Blogs)*
-- **MÖBIUS STRIP REVERSE ENGINEERING** [[web]](http://www.msreverseengineering.com/program-analysis-reading-list/)
+- **Reversing Ethereum Smart Contracts** [[web]](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
 
 ### Ethereum Reference
 - **Ethereum: A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM** (2015),  Vitalik Buterin. [[pdf]](http://www.the-blockchain.com/docs/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf)
