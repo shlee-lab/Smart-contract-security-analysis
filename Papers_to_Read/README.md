@@ -48,7 +48,7 @@ Below papers are related with cryptographical view
 
 ### Chosen by myself
 *I should review these papers*
-- Scilla: a Smart Contract Intermediate-Level LAnguage (2018), Ilya Sergey et al. [[pdf]](https://arxiv.org/pdf/1801.00687.pdf)
+- **Scilla: a Smart Contract Intermediate-Level LAnguage** (2018), Ilya Sergey et al. [[pdf]](https://arxiv.org/pdf/1801.00687.pdf)
 
 
 ### Book / Survey / Review
