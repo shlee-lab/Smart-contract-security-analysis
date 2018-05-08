@@ -7,7 +7,7 @@ I'm not sure that these papers are good or essential to read
 
 * [Recommendation from Others](#recommendation-from-others) : Mainly, from my tutor
 
-* [chosen by myself](#chosen-by-myself) : warning! my view is very novice
+* [Chosen by myself](#chosen-by-myself) : Warning! my view is very novice
 
 * [Lectures / Survey / Blogs](#lectures--survey--blogs)
 * * *
