@@ -31,14 +31,13 @@ For it, I study cryptography, formal descryption and blockchain for now.
 * [2017 Papers](#2017-papers)
 * [2015-6 Papers](#2015-6-papers)
 * [Smart Contract Security Analysis Tools](#smart-contract-security-analysis-tools)
-* [Book / Survey / Review](#book--survey--review)
 * [Lectures / Tutorials / Blogs](#lectures--tutorials--blogs)
 * [Ethereum Reference](#ethereum-reference) : helpful link
 * * *
 
 ### Overview
 
-Things to do : put big table (dynamic)
+NEED TO WRITE
 
 ### 2018 papers
 *Newly published papers (in this year) which are worth reading*
@@ -55,9 +54,6 @@ Things to do : put big table (dynamic)
 *Published papers in 2015-6 (2015 is when the notion of smart contract was born) which are worth reading*
 - Making Smart Contracts Smarter (2016), Loi Luu et al. [[pdf]](https://eprint.iacr.org/2016/633.pdf)
 
-
-### Book / Survey / Review
-- 
 
 ### Lectures / Tutorials / Blogs
 
