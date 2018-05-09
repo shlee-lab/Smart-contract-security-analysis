@@ -38,6 +38,10 @@ For it, I study cryptography, formal descryption and blockchain for now.
 ### Overview
 
 NEED TO WRITE
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 ### 2018 papers
 *Newly published papers (in this year) which are worth reading*
