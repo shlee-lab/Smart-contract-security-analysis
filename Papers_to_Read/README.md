@@ -17,19 +17,20 @@ I'm not sure that these papers are good or essential to read
 Blank
 
 ### Recommendation from Others
-- **Validation and Verification of Smart Contracts: A Research Agenda** (2017),  Daniele Magazzeni et al. [[pdf]](https://core.ac.uk/download/pdf/96761687.pdf)
-- **Writing Secure Smart Contracts** (2016), IC3. [[pdf]](http://upyun-assets.ethfans.org/uploads/doc/file/f035d9aa385448f280a785715fff89e0.pdf?_upd=devcon-ic3.pdf)
-- **Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab** (2015), Kevin Delmolino et al. [[pdf]](https://eprint.iacr.org/2015/460.pdf)
-- **Ethereum: state of knowledge and research perspectives** (2017),Sergei Tikhomirov. [[pdf]](https://allquantor.at/blockchainbib/pdf/tikhomirov2017ethereum.pdf)
 - **SoK: unraveling Bitcoin smart contracts** (2018), Nicola Atzei et al. [[pdf]](https://eprint.iacr.org/2018/192.pdf)
 - **From contracts to “smart” contracts** (2018), Massimo Bartoletti et al. [[pdf]](http://www.dmi.unipg.it/DLTWorkshop/presentazioni%20DLT%20workshop/bartoletti.pdf)
-- **A Survey of Attacks on Ethereum Smart Contracts (SoK)** (2016),Nicola Atzei et al. [[pdf]](https://eprint.iacr.org/2016/1007.pdf)
+- **Validation and Verification of Smart Contracts: A Research Agenda** (2017),  Daniele Magazzeni et al. [[pdf]](https://core.ac.uk/download/pdf/96761687.pdf)
+- **Ethereum: state of knowledge and research perspectives** (2017),Sergei Tikhomirov. [[pdf]](https://allquantor.at/blockchainbib/pdf/tikhomirov2017ethereum.pdf)
 - **Quantstamp : The protocol for securing smart contracts** (2017), Richard Ma et al. [[pdf]](https://crushcrypto.com/wp-content/uploads/2017/10/QSP-Whitepaper.pdf)
 - **Ethereum Smart Contracts: Security Vulnerabilities and Security Tools** (2017), Ardit Dika. [[pdf]](https://brage.bibsys.no/xmlui/bitstream/handle/11250/2479191/18400_FULLTEXT.pdf?sequence=1)
+- **Writing Secure Smart Contracts** (2016), IC3. [[pdf]](http://upyun-assets.ethfans.org/uploads/doc/file/f035d9aa385448f280a785715fff89e0.pdf?_upd=devcon-ic3.pdf)
+- **A Survey of Attacks on Ethereum Smart Contracts (SoK)** (2016),Nicola Atzei et al. [[pdf]](https://eprint.iacr.org/2016/1007.pdf)
+- **Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab** (2015), Kevin Delmolino et al. [[pdf]](https://eprint.iacr.org/2015/460.pdf)
 
 Below papers are related with DSL
-- **Findel: Secure Derivative Contracts for Ethereum** (2017), Alex Biryukov et al. [[pdf]](https://orbilu.uni.lu/bitstream/10993/30975/1/Findel_2017-03-08-CR.pdf)
 - **Formal verification of smart contracts based on users and blockchain behaviors models** (2018), Tesnim Abdellatif et al. [[pdf]](https://hal.archives-ouvertes.fr/hal-01760787/document)
+- **Findel: Secure Derivative Contracts for Ethereum** (2017), Alex Biryukov et al. [[pdf]](https://orbilu.uni.lu/bitstream/10993/30975/1/Findel_2017-03-08-CR.pdf)
+
 
 Below papers are related with Isabelle/HOL or Behaviors model
 - **Formal verification of smart contracts based on users and blockchain behaviors models** (2018), Tesnim Abdellatif et al. [[pdf]](https://hal.archives-ouvertes.fr/hal-01760787/document)
