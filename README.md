@@ -1,7 +1,6 @@
-# Papers of Smart Contract Security Analysis
-Papers of smart contract security analysis (and tools)
+# Papers and Tools for Smart Contract Security Analysis
 
-(Model format from [[terryum's repository]](https://github.com/terryum/awesome-deep-learning-papers))
+(README.md format from [[terryum's repository]](https://github.com/terryum/awesome-deep-learning-papers))
 
 ## Contents
 
