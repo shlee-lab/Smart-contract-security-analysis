@@ -14,7 +14,7 @@ I'm not sure that these papers are good or essential to read
 
 ### Overview
 
-Things to do : put big table (dynamic)
+Blank
 
 ### Recommendation from Others
 - **Validation and Verification of Smart Contracts: A Research Agenda** (2017),  Daniele Magazzeni et al. [[pdf]](https://core.ac.uk/download/pdf/96761687.pdf)
@@ -23,8 +23,8 @@ Things to do : put big table (dynamic)
 - **Ethereum: state of knowledge and research perspectives** (2017),Sergei Tikhomirov. [[pdf]](https://allquantor.at/blockchainbib/pdf/tikhomirov2017ethereum.pdf)
 - **SoK: unraveling Bitcoin smart contracts** (2018), Nicola Atzei et al. [[pdf]](https://eprint.iacr.org/2018/192.pdf)
 - **From contracts to “smart” contracts** (2018), Massimo Bartoletti et al. [[pdf]](http://www.dmi.unipg.it/DLTWorkshop/presentazioni%20DLT%20workshop/bartoletti.pdf)
-- **A Survey of Attacks on Ethereum Smart Contracts (SoK)** (2016),Nicola Atzei et al. [[pdf]](https://www.springerprofessional.de/en/a-survey-of-attacks-on-ethereum-smart-contracts-sok/12179508)
-- **Quantstamp : The protocol for securing smart contracts** (2017), Richard Ma et al. [[pdf]](https://eprint.iacr.org/2016/1007.pdf)
+- **A Survey of Attacks on Ethereum Smart Contracts (SoK)** (2016),Nicola Atzei et al. [[pdf]](https://eprint.iacr.org/2016/1007.pdf)
+- **Quantstamp : The protocol for securing smart contracts** (2017), Richard Ma et al. [[pdf]](https://crushcrypto.com/wp-content/uploads/2017/10/QSP-Whitepaper.pdf)
 - **Ethereum Smart Contracts: Security Vulnerabilities and Security Tools** (2017), Ardit Dika. [[pdf]](https://brage.bibsys.no/xmlui/bitstream/handle/11250/2479191/18400_FULLTEXT.pdf?sequence=1)
 
 Below papers are related with DSL
