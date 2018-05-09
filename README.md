@@ -10,7 +10,7 @@ Papers of smart contract security analysis (and tools)
 * [2018 Papers](#2018-papers) : Proceeding
 * [2017 Papers](#2017-papers)
 * [2015-6 Papers](#2015-6-papers)
-* [Seuciry SCI(E) Journal list](#security-sci(e)-journal-list)
+* [Security SCI(E) Journal list](#security-sci(e)-journal-list)
 * [Lectures / Tutorials / Blogs](#lectures--tutorials--blogs)
 * [Nice References](#nice-references)
 * * *
@@ -24,10 +24,10 @@ NEED TO WRITE
 ### Smart Contract Security Analysis Tools
 | Name | Path | Related Paper |
 | :---:         |     :---      |          :--- |
-| Oyente        | oyente.melon.fund     | link    |
-| Securify     | tool.smartdec.net       | link      |
-| Remix        |  remix.ethereum.org           |  link  |
-| SmartCheck        |  securify.ch           |  link  |
+| Oyente        | http://oyente.melon.fund     | link    |
+| Securify     | http://tool.smartdec.net       | link      |
+| Remix        |  http://remix.ethereum.org           |  link  |
+| SmartCheck        |  http://securify.ch           |  link  |
 | SmartDeck        |  https://tool.smartdec.net/           |  link  |
 | Gasper        |             |  link  |
 | Mythril        |             |  link  |
@@ -48,7 +48,7 @@ NEED TO WRITE
 *Published papers in 2015-6 (2015 is when the notion of smart contract was born) which are worth reading*
 - **Making Smart Contracts Smarter** (2016), Loi Luu et al. [[pdf]](https://eprint.iacr.org/2016/633.pdf)
 
-### Seuciry SCI(E) Journal list
+### Security SCI(E) Journal list
 
 * IEEE Transactions on Information Forensics and Security [[web]](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 * Computer & Security[[web]](http://www.elsevier.com/wps/find/journaldescription.cws_home/405877/description#description)
