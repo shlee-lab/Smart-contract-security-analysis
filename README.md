@@ -62,7 +62,7 @@ NEED TO WRITE
 
 ### 2015-6 papers
 *Published papers in 2015-6 (2015 is when the notion of smart contract was born) which are worth reading*
-- Making Smart Contracts Smarter (2016), Loi Luu et al. [[pdf]](https://eprint.iacr.org/2016/633.pdf)
+- **Making Smart Contracts Smarter** (2016), Loi Luu et al. [[pdf]](https://eprint.iacr.org/2016/633.pdf)
 
 
 ### Lectures / Tutorials / Blogs
