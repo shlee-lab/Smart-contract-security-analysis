@@ -3,26 +3,6 @@ Papers of smart contract security analysis (and tools)
 
 (Model format from [[terryum's repository]](https://github.com/terryum/awesome-deep-learning-papers))
 
-## Background
-
-My main focus on study is formal anlaysis on information security.
-For it, I study cryptography, formal descryption and blockchain for now.
-
-
-## Seuciry SCI(E) Journal list
-
-* IEEE Transactions on Information Forensics and Security [[web]](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
-* Computer & Security[[web]](http://www.elsevier.com/wps/find/journaldescription.cws_home/405877/description#description)
-* IET Information Security[[web]](http://www.ietdl.org/IET-IFS)
-* ACM Transactions on Information and System Security[[web]](http://tissec.acm.org/)
-* International Journal of Information Security[[web]](http://www.springerlink.com/content/107927/)
-* Security and Communication Networks[[web]](http://www.wiley.com/bw/journal.asp?ref=1939-0114)
-* IEEE Security & Privacy[[web]](	http://www.computer.org/portal/web/security/home)
-* IEEE Transactions on Dependable and Secure Computing [[web]](http://www.computer.org/tdsc/)
-* Security and Communication Networks[[web]](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0122)
-* Computer Fraud & Security[[web]](http://www.elsevierscitech.com/nl/cfs/home.asp )
-
-
 ## Contents
 
 * [Overview](#overview)
@@ -30,8 +10,9 @@ For it, I study cryptography, formal descryption and blockchain for now.
 * [2018 Papers](#2018-papers) : Proceeding
 * [2017 Papers](#2017-papers)
 * [2015-6 Papers](#2015-6-papers)
+* [Seuciry SCI(E) Journal list](#security-sci(e)-journal-list)
 * [Lectures / Tutorials / Blogs](#lectures--tutorials--blogs)
-* [Ethereum Reference](#ethereum-reference) : helpful link
+* [Nice References](#nice-references)
 * * *
 
 ### Overview
@@ -67,6 +48,18 @@ NEED TO WRITE
 *Published papers in 2015-6 (2015 is when the notion of smart contract was born) which are worth reading*
 - **Making Smart Contracts Smarter** (2016), Loi Luu et al. [[pdf]](https://eprint.iacr.org/2016/633.pdf)
 
+### Seuciry SCI(E) Journal list
+
+* IEEE Transactions on Information Forensics and Security [[web]](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+* Computer & Security[[web]](http://www.elsevier.com/wps/find/journaldescription.cws_home/405877/description#description)
+* IET Information Security[[web]](http://www.ietdl.org/IET-IFS)
+* ACM Transactions on Information and System Security[[web]](http://tissec.acm.org/)
+* International Journal of Information Security[[web]](http://www.springerlink.com/content/107927/)
+* Security and Communication Networks[[web]](http://www.wiley.com/bw/journal.asp?ref=1939-0114)
+* IEEE Security & Privacy[[web]](	http://www.computer.org/portal/web/security/home)
+* IEEE Transactions on Dependable and Secure Computing [[web]](http://www.computer.org/tdsc/)
+* Security and Communication Networks[[web]](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0122)
+* Computer Fraud & Security[[web]](http://www.elsevierscitech.com/nl/cfs/home.asp )
 
 ### Lectures / Tutorials / Blogs
 
@@ -80,7 +73,7 @@ NEED TO WRITE
 - **DASP TOP 10** [[web]](https://www.dasp.co/)
 - **Reversing Ethereum Smart Contracts** [[web]](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
 
-### Ethereum Reference
+### Nice References
 - **Ethereum: A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM** (2015),  Vitalik Buterin. [[pdf]](http://www.the-blockchain.com/docs/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf)
 - **Bitcoin: A Peer-to-Peer Electronic Cash System** (2009), Satoshi Nakamoto. [[pdf]](https://bitcoin.org/bitcoin.pdf)
 - **Zerocash: Decentralized Anonymous Payments from Bitcoin** (2014), Eli Ben-Sasson at al. [[pdf]](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf)
