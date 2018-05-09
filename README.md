@@ -1,7 +1,7 @@
 # Papers_SmartContract_Security_Analysis
 Papers of smart contract security analysis (and tools)
 
-I'm a novice researcher Lee Soo Hyeon. The purpose of here is looking nice papers in one glance. (Format from [[terryum's repository]](https://github.com/terryum/awesome-deep-learning-papers))
+(Model format from [[terryum's repository]](https://github.com/terryum/awesome-deep-learning-papers))
 
 ## Background
 
