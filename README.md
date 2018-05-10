@@ -5,7 +5,7 @@
 ## Contents
 
 * [Overview](#overview)
-* [Smart Contract Security Analysis Tools](#smart-contract-security-analysis-tools)
+* [Tools](#security-analysis-tools)
 * [2018 Papers](#2018-papers) : Proceeding
 * [2017 Papers](#2017-papers)
 * [2015-6 Papers](#2015-6-papers)
@@ -20,7 +20,7 @@ NEED TO WRITE
 
 
 
-### Smart Contract Security Analysis Tools
+### Security Analysis Tools
 | Name | Path | Related Paper |
 | :---:         |     :---      |          :--- |
 | Oyente        | http://oyente.melon.fund     | link    |
