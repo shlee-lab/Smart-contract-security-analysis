@@ -16,7 +16,8 @@
 
 ### Overview
 
-NEED TO WRITE
+(Pictures in here)
+Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vulnerability/bug
 
 
 
