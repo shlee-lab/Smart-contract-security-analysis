@@ -10,7 +10,7 @@
 * [2017 Papers](#2017-papers)
 * [2015-6 Papers](#2015-6-papers)
 * [Security SCI(E) Journal list](#security-sci(e)-journal-list)
-* [Lectures / Tutorials / Blogs](#lectures--tutorials--blogs)
+* [Lectures / Tutorials / Websites](#lectures--tutorials--websites)
 * [Nice References](#nice-references)
 * * *
 
@@ -37,6 +37,8 @@ NEED TO WRITE
 - **ZEUS: Analyzing Safety of Smart Contracts** (2018), Sukrit Kalra et al. [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf)
 - **Finding The Greedy, Prodigal, and Suicidal Contracts at Scale** (2018), Ivica Nikolic et al. [[pdf]](https://arxiv.org/pdf/1802.06038.pdf)
 - **Scilla: a Smart Contract Intermediate-Level LAnguage** (2018), Ilya Sergey et al. [[pdf]](https://arxiv.org/pdf/1801.00687.pdf)
+- **Formal verification of smart contracts based on users and blockchain behaviors models** (2018), Tesnim Abdellatif et al. [[pdf]](https://hal.archives-ouvertes.fr/hal-01760787/document)
+- **Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL** (2018), Sidney Amani et al. [[pdf]](http://ssrg.nicta.com/publications/csiro_full_text//Amani_BSB_18.pdf)
 
 ### 2017 papers
 *Published papers in 2017 which are worth reading*
@@ -60,7 +62,7 @@ NEED TO WRITE
 * Security and Communication Networks[[web]](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0122)
 * Computer Fraud & Security[[web]](http://www.elsevierscitech.com/nl/cfs/home.asp )
 
-### Lectures / Tutorials / Blogs
+### Lectures / Tutorials / Websites
 
 *(Lectures)*
 - empty
@@ -71,6 +73,7 @@ NEED TO WRITE
 *(Blogs)*
 - **DASP TOP 10** [[web]](https://www.dasp.co/)
 - **Reversing Ethereum Smart Contracts** [[web]](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
+- **Yoichi's Formal Verification of Ethereum Contracts** [[web]](https://github.com/pirapira/ethereum-formal-verification-overview/blob/master/README.md#formal-verification-of-ethereum-contracts-yoichis-attempts)
 
 ### Nice References
 - **Ethereum: A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM** (2015),  Vitalik Buterin. [[pdf]](http://www.the-blockchain.com/docs/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf)
