@@ -23,11 +23,11 @@ NEED TO WRITE
 ### Security Analysis Tools
 | Name | Available Path | Feature | Related Paper |
 | :---:         |     :---      |     :---  |      :--- |
-| Oyente        | http://oyente.melon.fund  |   | link    |
-| Securify     | http://tool.smartdec.net    |   | link      |
-| Remix        |  http://remix.ethereum.org     |  Solidity compiler, debugger    |    |
-| SmartCheck        |  http://securify.ch       |    |  link  |
-| Mythril        |  https://github.com/ConsenSys/mythril     |      |  link  |
+| Oyente        | http://oyente.melon.fund  | symbolic execution  | link    |
+| Securify     | http://securify.ch    | formal verification  |     |
+| Remix        |  http://remix.ethereum.org     |  solidity compiler, debugger    |    |
+| SmartCheck        |    http://tool.smartdec.net     | static code analysis   |  link  |
+| Mythril        |  https://github.com/ConsenSys/mythril     |   concolic and taint analysis   |  link  |
 | why3        |   http://why3.lri.fr/try/          | formal verification, general tool   | link  |
 
 ### 2018 papers
