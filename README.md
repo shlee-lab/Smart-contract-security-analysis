@@ -53,6 +53,7 @@ NEED TO WRITE
 - **A Survey of Attacks on Ethereum Smart Contracts (SoK)** (2016),Nicola Atzei et al. [[pdf]](https://eprint.iacr.org/2016/1007.pdf)
 - **Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab** (2015), Kevin Delmolino et al. [[pdf]](https://eprint.iacr.org/2015/460.pdf)
 
+* * *
 
 ### Security SCI(E) Journal list
 
