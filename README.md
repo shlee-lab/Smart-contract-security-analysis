@@ -39,7 +39,7 @@ Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vul
 - **Scilla: a Smart Contract Intermediate-Level LAnguage** (2018), Ilya Sergey et al. [[pdf]](https://arxiv.org/pdf/1801.00687.pdf)
 - **Formal verification of smart contracts based on users and blockchain behaviors models** (2018), Tesnim Abdellatif et al. [[pdf]](https://hal.archives-ouvertes.fr/hal-01760787/document)
 - **Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL** (2018), Sidney Amani et al. [[pdf]](http://ssrg.nicta.com/publications/csiro_full_text//Amani_BSB_18.pdf)
-- **How Formal Verification Can Ensure Flawless Smart Contracts** (2018), Bernhard Mueller. [[web]](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1)
+
 
 ### 2017 papers
 *Published papers in 2017 which are worth reading*
@@ -75,6 +75,7 @@ Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vul
 - **DASP TOP 10** [[web]](https://www.dasp.co/)
 - **Reversing Ethereum Smart Contracts** [[web]](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
 - **Yoichi's Formal Verification of Ethereum Contracts** [[web]](https://github.com/pirapira/ethereum-formal-verification-overview/blob/master/README.md#formal-verification-of-ethereum-contracts-yoichis-attempts)
+- **How Formal Verification Can Ensure Flawless Smart Contracts** (2018), Bernhard Mueller. [[web]](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1)
 
 *(Tutorials)*
 - empty
