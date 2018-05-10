@@ -11,7 +11,7 @@
 * [2015-6 Papers](#2015-6-papers)
 * [Security SCI(E) Journal list](#security-sci(e)-journal-list)
 * [Websites / Tutorials](#websites--tutorials)
-* [Nice References](#nice-references)
+* [References](#references)
 * * *
 
 ### Overview
@@ -22,7 +22,8 @@ Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vul
 
 
 ### Security Analysis Tools
-| Name | Available Path | Feature | Related Paper |
+*Available tools which are available. There can be paid services to use full features.*
+| Name | Available Path | Features | Related Paper |
 | :---:         |     :---      |     :---  |      :---: |
 | Oyente        | http://oyente.melon.fund  | symbolic execution  | [pdf](https://eprint.iacr.org/2016/633.pdf)    |
 | Securify     | http://securify.ch    | formal verification  |     |
@@ -48,7 +49,7 @@ Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vul
 - **Designing Secure Ethereum Smart Contracts: A Finite State Machine Based Approach** (2017), Anastasia Mavridou et al. [[pdf]](https://fc18.ifca.ai/preproceedings/101.pdf)
 
 ### 2015-6 papers
-*Published papers in 2015-6 (2015 is when the notion of smart contract was born) which are worth reading*
+*Published papers in 2015-6 (2015 is when smart contract was born) which are worth reading*
 - **Making Smart Contracts Smarter** (2016), Loi Luu et al. [[pdf]](https://eprint.iacr.org/2016/633.pdf)
 - **Short Paper: Formal Verification of Smart Contracts** (2016), Karthikeyan Bhargavan et al. [[pdf]](https://www.cs.umd.edu/~aseem/solidetherplas.pdf)
 - **A Survey of Attacks on Ethereum Smart Contracts (SoK)** (2016),Nicola Atzei et al. [[pdf]](https://eprint.iacr.org/2016/1007.pdf)
@@ -80,7 +81,7 @@ Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vul
 *(Tutorials)*
 - empty
 
-### Nice References
+### References
 - **Ethereum: A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM** (2015),  Vitalik Buterin. [[pdf]](http://www.the-blockchain.com/docs/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf)
 - **Bitcoin: A Peer-to-Peer Electronic Cash System** (2009), Satoshi Nakamoto. [[pdf]](https://bitcoin.org/bitcoin.pdf)
 - **Zerocash: Decentralized Anonymous Payments from Bitcoin** (2014), Eli Ben-Sasson at al. [[pdf]](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf)
