@@ -25,7 +25,7 @@ NEED TO WRITE
 | :---:         |     :---      |     :---  |      :--- |
 | Oyente        | http://oyente.melon.fund  |   | link    |
 | Securify     | http://tool.smartdec.net    |   | link      |
-| Remix        |  http://remix.ethereum.org     |      |  link  |
+| Remix        |  http://remix.ethereum.org     |  Solidity compiler, debugger    |    |
 | SmartCheck        |  http://securify.ch       |    |  link  |
 | Mythril        |  https://github.com/ConsenSys/mythril     |      |  link  |
 | why3        |   http://why3.lri.fr/try/          | formal verification, general tool   | link  |
