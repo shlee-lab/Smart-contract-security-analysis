@@ -49,6 +49,7 @@ NEED TO WRITE
 ### 2015-6 papers
 *Published papers in 2015-6 (2015 is when the notion of smart contract was born) which are worth reading*
 - **Making Smart Contracts Smarter** (2016), Loi Luu et al. [[pdf]](https://eprint.iacr.org/2016/633.pdf)
+- **Short Paper: Formal Verification of Smart Contracts** (2016), Karthikeyan Bhargavan et al. [[pdf]](https://www.cs.umd.edu/~aseem/solidetherplas.pdf)
 - **A Survey of Attacks on Ethereum Smart Contracts (SoK)** (2016),Nicola Atzei et al. [[pdf]](https://eprint.iacr.org/2016/1007.pdf)
 - **Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab** (2015), Kevin Delmolino et al. [[pdf]](https://eprint.iacr.org/2015/460.pdf)
 
