@@ -21,16 +21,14 @@ NEED TO WRITE
 
 
 ### Security Analysis Tools
-| Name | Path | Related Paper |
-| :---:         |     :---      |          :--- |
-| Oyente        | http://oyente.melon.fund     | link    |
-| Securify     | http://tool.smartdec.net       | link      |
-| Remix        |  http://remix.ethereum.org           |  link  |
-| SmartCheck        |  http://securify.ch           |  link  |
-| SmartDeck        |  https://tool.smartdec.net/           |  link  |
-| Gasper        |             |  link  |
-| Mythril        |             |  link  |
-| Gasper        |             |  link  |
+| Name | Available Path | Feature | Related Paper |
+| :---:         |     :---      |     :---  |      :--- |
+| Oyente        | http://oyente.melon.fund  |   | link    |
+| Securify     | http://tool.smartdec.net    |   | link      |
+| Remix        |  http://remix.ethereum.org     |      |  link  |
+| SmartCheck        |  http://securify.ch       |    |  link  |
+| Mythril        |  https://github.com/ConsenSys/mythril     |      |  link  |
+| why3        |   http://why3.lri.fr/try/          | formal verification, general tool   | link  |
 
 ### 2018 papers
 *Newly published papers (in this year) which are worth reading*
