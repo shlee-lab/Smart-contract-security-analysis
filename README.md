@@ -23,7 +23,7 @@ NEED TO WRITE
 ### Security Analysis Tools
 | Name | Available Path | Feature | Related Paper |
 | :---:         |     :---      |     :---  |      :--- |
-| Oyente        | http://oyente.melon.fund  | symbolic execution  | [link](#making-smart-contracts-smarter)    |
+| Oyente        | http://oyente.melon.fund  | symbolic execution  | [pdf](https://eprint.iacr.org/2016/633.pdf)    |
 | Securify     | http://securify.ch    | formal verification  |     |
 | Remix        |  http://remix.ethereum.org     |  solidity compiler, debugger    |    |
 | SmartCheck        |    http://tool.smartdec.net     | static code analysis   |  |
