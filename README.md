@@ -22,10 +22,11 @@ Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vul
 
 
 ### Security Analysis Tools
-*Available tools which are available. There can be paid services to use full features.*
+*Tools which are available. There can be paid services to use full features.*
+
 | Name | Available Path | Features | Related Paper |
 | :---:         |     :---      |     :---  |      :---: |
-| Oyente        | http://oyente.melon.fund  | symbolic execution  | [pdf](https://eprint.iacr.org/2016/633.pdf)    |
+| Oyente        | http://oyente.melon.fund  | symbolic execution  | [[pdf]](https://eprint.iacr.org/2016/633.pdf)    |
 | Securify     | http://securify.ch    | formal verification  |     |
 | Remix        |  http://remix.ethereum.org     |  solidity compiler, debugger    |    |
 | SmartCheck        |    http://tool.smartdec.net     | static code analysis   |  |
