@@ -75,7 +75,7 @@ NEED TO WRITE
 *(Tutorials)*
 - empty
 
-*(Blogs)*
+*(Websites)*
 - **DASP TOP 10** [[web]](https://www.dasp.co/)
 - **Reversing Ethereum Smart Contracts** [[web]](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
 - **Yoichi's Formal Verification of Ethereum Contracts** [[web]](https://github.com/pirapira/ethereum-formal-verification-overview/blob/master/README.md#formal-verification-of-ethereum-contracts-yoichis-attempts)
