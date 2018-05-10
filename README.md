@@ -10,7 +10,7 @@
 * [2017 Papers](#2017-papers)
 * [2015-6 Papers](#2015-6-papers)
 * [Security SCI(E) Journal list](#security-sci(e)-journal-list)
-* [Lectures / Tutorials / Websites](#lectures--tutorials--websites)
+* [Websites / Tutorials](#websites--tutorials)
 * [Nice References](#nice-references)
 * * *
 
@@ -67,18 +67,15 @@ NEED TO WRITE
 * Security and Communication Networks[[web]](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0122)
 * Computer Fraud & Security[[web]](http://www.elsevierscitech.com/nl/cfs/home.asp )
 
-### Lectures / Tutorials / Websites
-
-*(Lectures)*
-- empty
-
-*(Tutorials)*
-- empty
+### Websites / Tutorials
 
 *(Websites)*
 - **DASP TOP 10** [[web]](https://www.dasp.co/)
 - **Reversing Ethereum Smart Contracts** [[web]](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
 - **Yoichi's Formal Verification of Ethereum Contracts** [[web]](https://github.com/pirapira/ethereum-formal-verification-overview/blob/master/README.md#formal-verification-of-ethereum-contracts-yoichis-attempts)
+
+*(Tutorials)*
+- empty
 
 ### Nice References
 - **Ethereum: A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM** (2015),  Vitalik Buterin. [[pdf]](http://www.the-blockchain.com/docs/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf)
