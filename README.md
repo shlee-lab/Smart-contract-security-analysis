@@ -1,6 +1,6 @@
 # Papers and Tools for Smart Contract Security Analysis
 
-As not so many papers are not released yet, I try to show all papers about security analysis of smart contract.
+This space tries to show all papers about security analysis of smart contract.
 
 ## Contents
 
