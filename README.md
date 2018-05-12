@@ -1,3 +1,4 @@
+
 # Papers and Tools for Smart Contract Security Analysis
 
 As not so many papers are not released yet, I try to show all papers about security analysis of smart contract.
@@ -43,7 +44,8 @@ Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vul
 - **Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL** (2018), Sidney Amani et al. [[pdf]](http://ssrg.nicta.com/publications/csiro_full_text//Amani_BSB_18.pdf)
 - **SoK: unraveling Bitcoin smart contracts** (2018), Nicola Atzei et al. [[pdf]](https://eprint.iacr.org/2018/192.pdf)
 - **From contracts to “smart” contracts** (2018), Massimo Bartoletti et al. [[pdf]](http://www.dmi.unipg.it/DLTWorkshop/presentazioni%20DLT%20workshop/bartoletti.pdf)
-
+- **BitML : a calculus for Bitcoin smart contracts** (2018), Massimo Bartoletti et al. [[pdf]](https://eprint.iacr.org/2018/122.pdf)
+- **Quantitative Analysis of Smart Contracts** (2018), Krishnendu Chatterjee et al. [[pdf]](http://pub.ist.ac.at/~akafshda/paperpdfs/esop2018.pdf)
 
 
 ### 2017 papers
