@@ -1,4 +1,3 @@
-
 # Papers and Tools for Smart Contract Security Analysis
 
 As not so many papers are not released yet, I try to show all papers about security analysis of smart contract.
@@ -11,7 +10,7 @@ As not so many papers are not released yet, I try to show all papers about secur
 * [2017 Papers](#2017-papers)
 * [2015-6 Papers](#2015-6-papers)
 * [Security SCI(E) Journal list](#security-sci(e)-journal-list)
-* [Websites / Tutorials](#websites--tutorials)
+* [Links / Tutorials](#links--tutorials)
 * [References](#references)
 * * *
 
@@ -33,6 +32,7 @@ Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vul
 | SmartCheck        |    http://tool.smartdec.net     | static code analysis   |  |
 | Mythril        |  https://github.com/ConsenSys/mythril     |   concolic and taint analysis   |    |
 | why3        |   http://why3.lri.fr/try/          | formal verification, general tool   |  |
+
 
 ### 2018 papers
 *Newly published papers (in this year) which are worth reading*
@@ -82,14 +82,16 @@ Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vul
 * Security and Communication Networks[[web]](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0122)
 * Computer Fraud & Security[[web]](http://www.elsevierscitech.com/nl/cfs/home.asp )
 
-### Websites / Tutorials
+### Links / Tutorials
 
-*(Websites)*
+*(Links)*
 - **DASP TOP 10** [[web]](https://www.dasp.co/)
 - **Yoichi's Formal Verification of Ethereum Contracts** [[web]](https://github.com/pirapira/ethereum-formal-verification-overview/)
 - **How Formal Verification Can Ensure Flawless Smart Contracts** (2018), Bernhard Mueller. [[web]](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1)
 - **Smashing Ethereum smart contracts for fun and real profit** (2018),  Bernhard Mueller. [[pdf]](https://github.com/b-mueller/smashing-smart-contracts/blob/master/smashing-smart-contracts-1of1.pdf)
 - **Reversing Ethereum Smart Contracts** [[web]](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
+
+- **Smart Contract Languages** [[web]](https://github.com/s-tikhomirov/smart-contract-languages)
 
 *(Tutorials)*
 - empty
