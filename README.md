@@ -47,6 +47,7 @@ Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vul
 - **BitML : a calculus for Bitcoin smart contracts** (2018), Massimo Bartoletti et al. [[pdf]](https://eprint.iacr.org/2018/122.pdf)
 - **Quantitative Analysis of Smart Contracts** (2018), Krishnendu Chatterjee et al. [[pdf]](http://pub.ist.ac.at/~akafshda/paperpdfs/esop2018.pdf)
 - **Smart Contracts Vulnerabilities: A Call for Blockchain Software Engineering?** (2018), Giuseppe Destefanis et al. [[pdf]](http://dspace.stir.ac.uk/bitstream/1893/27135/1/smart-contracts-vulnerabilities-3.pdf)
+- **Smart Contracts: Security Patterns in the Ethereum Ecosystem and Solidity** (2018), Maximilian Wöhrer and Uwe Zdun. [[pdf]](http://eprints.cs.univie.ac.at/5433/7/sanerws18iwbosemain-id1-p-380f58e-35576-preprint.pdf)
 
 
 ### 2017 papers
