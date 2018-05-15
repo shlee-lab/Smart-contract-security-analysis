@@ -30,7 +30,7 @@ Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vul
 | Securify     | http://securify.ch    | formal verification  |     |
 | Remix        |  http://remix.ethereum.org     |  solidity compiler, debugger    |    |
 | SmartCheck        |    http://tool.smartdec.net     | static code analysis   |  |
-| Mythril        |  https://github.com/ConsenSys/mythril     |   concolic and taint analysis   |    |
+| Mythril        |  https://github.com/ConsenSys/mythril     |   concolic and taint analysis   |  [[pdf]](https://github.com/b-mueller/smashing-smart-contracts/blob/master/smashing-smart-contracts-1of1.pdf)  |
 | why3        |   http://why3.lri.fr/try/          | formal verification, general tool   |  |
 
 
@@ -40,6 +40,7 @@ Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vul
 - **Finding The Greedy, Prodigal, and Suicidal Contracts at Scale** (2018), Ivica Nikolic et al. [[pdf]](https://arxiv.org/pdf/1802.06038.pdf)
 - **Scilla: a Smart Contract Intermediate-Level LAnguage** (2018), Ilya Sergey et al. [[pdf]](https://arxiv.org/pdf/1801.00687.pdf)
 - **Formal verification of smart contracts based on users and blockchain behaviors models** (2018), Tesnim Abdellatif et al. [[pdf]](https://hal.archives-ouvertes.fr/hal-01760787/document)
+- **Smashing Ethereum smart contracts for fun and real profit** (2018),  Bernhard Mueller. [[pdf]](https://github.com/b-mueller/smashing-smart-contracts/blob/master/smashing-smart-contracts-1of1.pdf)
 - **Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL** (2018), Sidney Amani et al. [[pdf]](http://ssrg.nicta.com/publications/csiro_full_text//Amani_BSB_18.pdf)
 - **SoK: unraveling Bitcoin smart contracts** (2018), Nicola Atzei et al. [[pdf]](https://eprint.iacr.org/2018/192.pdf)
 - **From contracts to “smart” contracts** (2018), Massimo Bartoletti et al. [[pdf]](http://www.dmi.unipg.it/DLTWorkshop/presentazioni%20DLT%20workshop/bartoletti.pdf)
@@ -89,7 +90,6 @@ Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vul
 - **DASP TOP 10** [[web]](https://www.dasp.co/)
 - **Yoichi's Formal Verification of Ethereum Contracts** [[web]](https://github.com/pirapira/ethereum-formal-verification-overview/)
 - **How Formal Verification Can Ensure Flawless Smart Contracts** (2018), Bernhard Mueller. [[web]](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1)
-- **Smashing Ethereum smart contracts for fun and real profit** (2018),  Bernhard Mueller. [[pdf]](https://github.com/b-mueller/smashing-smart-contracts/blob/master/smashing-smart-contracts-1of1.pdf)
 - **Reversing Ethereum Smart Contracts** [[web]](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
 
 - **Smart Contract Languages** [[web]](https://github.com/s-tikhomirov/smart-contract-languages)
