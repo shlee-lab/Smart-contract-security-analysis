@@ -17,7 +17,7 @@ This space tries to show all papers about security analysis of smart contract.
 ### Overview
 
 (Pictures in here)
-Things to do : 1. taxonomy of vulnerability/bug, 2. definition camparison of vulnerability/bug
+Things to do : 1. taxonomy of vulnerability/bug, 2. definition comparison of vulnerability/bug
 
 
 
