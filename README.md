@@ -15,11 +15,10 @@ This space tries to show all papers about security analysis of smart contract.
 * * *
 
 ### Overview
-| Vulnerability               | ReEntrancy | Immutable Bugs                                           | Minhandled Exceptions                    | TOD | Untrusted Value Dependency | Gas Costly Pattern | tx.origin |
-|-----------------------------|------------|----------------------------------------------------------|------------------------------------------|-----|----------------------------|--------------------|-----------|
-| Subordinate Items           |            | Integer Overflow/Underflow Callstack Depth Short Address | Unchecked Send Unchekced Low Level Calls |     | Blackhash Timestamp        |                    |           |
-| Characteristics /Correlation |            |                                                          | DoS                                      |     | Randomness                 | DoS                |           |
-
+| Vulnerability | ReEntrancy | Immutable Bugs | Minhandled Exceptions | TOD | Untrusted Value Dependency | Gas Costly Pattern | tx.origin |
+|------------------------------|------------|----------------------------------------------------------|------------------------------------------|-----|----------------------------|--------------------|-------------|
+| Subordinate Items |  | Integer Overflow/Underflow Callstack Depth Short Address | Unchecked Send Unchekced Low Level Calls |  | Blackhash Timestamp |  |  |
+| Characteristics /Correlation |  |  | DoS, Interaction |  | Randomness | DoS | Interaction |
 
 ### Security Analysis Tools
 *Tools which are available. There can be paid services to use full features.*
