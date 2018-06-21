@@ -26,7 +26,7 @@ This space tries to show all papers about security analysis of smart contract.
 | Name | Available Path | Features | Related Paper |
 | :---:         |     :---      |     :---  |      :---: |
 | Oyente        | http://oyente.melon.fund  | symbolic execution  | [[pdf]](https://eprint.iacr.org/2016/633.pdf)    |
-| Securify     | http://securify.ch    | formal verification  |     |
+| Securify     | http://securify.ch    | formal verification  |  [[pdf]](https://arxiv.org/pdf/1806.01143.pdf)   |
 | Remix        |  http://remix.ethereum.org     |  solidity compiler, debugger    |    |
 | SmartCheck        |    http://tool.smartdec.net     | static code analysis   |  |
 | Mythril        |  https://github.com/ConsenSys/mythril     |   concolic and taint analysis   |  [[pdf]](https://github.com/b-mueller/smashing-smart-contracts/blob/master/smashing-smart-contracts-1of1.pdf)  |
@@ -35,6 +35,8 @@ This space tries to show all papers about security analysis of smart contract.
 
 ### 2018 papers
 *Newly published papers (in this year) which are worth reading*
+- **Securify: Practical Security Analysis of Smart Contracts** (2018), Petar Tsankov et al. [[pdf]](https://arxiv.org/pdf/1806.01143.pdf)
+- **Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution** (2018), Raymond Cheng et al. [[pdf]](https://arxiv.org/pdf/1804.05141.pdf)
 - **Smart Contracts: Security Patterns in the Ethereum Ecosystem and Solidity** (2018), Maximilian Wöhrer and Uwe Zdun. [[pdf]](http://eprints.cs.univie.ac.at/5433/7/sanerws18iwbosemain-id1-p-380f58e-35576-preprint.pdf)
 - **ZEUS: Analyzing Safety of Smart Contracts** (2018), Sukrit Kalra et al. [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf)
 - **Finding The Greedy, Prodigal, and Suicidal Contracts at Scale** (2018), Ivica Nikolic et al. [[pdf]](https://arxiv.org/pdf/1802.06038.pdf)
