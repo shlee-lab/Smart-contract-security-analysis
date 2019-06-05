@@ -2,6 +2,9 @@
 
 This space tries to show all papers about security analysis of smart contract.
 
+I stopped collecting research papers and stuffs about smart contract security in the middle of 2018.
+Hope this space help you little bit.
+
 ## Contents
 
 * [Overview](#overview)
